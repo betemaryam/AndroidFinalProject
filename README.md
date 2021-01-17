@@ -1,2 +1,2 @@
 # AndroidFinalProject
-This is QUEZ app
+offiline Quez APP
