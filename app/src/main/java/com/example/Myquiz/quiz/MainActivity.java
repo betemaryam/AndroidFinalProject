@@ -18,7 +18,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+/*
+ This is main activity that connect with the layout
+ */
         Button startbutton=(Button)findViewById(R.id.button);
         Button aboutbutton=(Button)findViewById(R.id.button2);
         final EditText nametext=(EditText)findViewById(R.id.editName);

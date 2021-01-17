@@ -18,7 +18,11 @@ public class QuestionsActivity extends AppCompatActivity {
     Button submitbutton, quitbutton;
     RadioGroup radio_g;
     RadioButton rb1,rb2,rb3,rb4;
-
+    /**
+     * @param question
+     * @param  opt
+     * @return answers
+     */
     String questions[] = {
                             "Which method can be defined only once in a program?",
                             "Which of these is not a bitwise operator?",

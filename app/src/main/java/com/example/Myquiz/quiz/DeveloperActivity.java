@@ -22,6 +22,7 @@ public class DeveloperActivity extends AppCompatActivity {
         btnRestart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //used  intent to connevt the activity
                 Intent in2 = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(in2);
             }

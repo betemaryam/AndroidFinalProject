@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">QuizApp</string>
     <string name="your_score">Your Score</string>
-    <string name="ashenafi">Ashenafi Tesfaye</string>
+    <string name="ashenafi">Ashenafi Tesfaye,Assefa Demeke,Betmariyem Tadesse</string>
     <string name="aemail">astnashenafi@gmail.com</string>
-    <string name="kasu">Kasu urgecha</string>
+    <string name="kasu">Kasu urgecha,Mesayt Erkie,Zenachewu Adane</string>
     <string name="kemail">simonpanda2020@yahoo.com</string>
     <string name="quizapp">QuizApp</string>
 </resources>

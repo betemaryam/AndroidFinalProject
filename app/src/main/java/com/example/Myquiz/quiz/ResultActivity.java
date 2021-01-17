@@ -20,7 +20,9 @@ public class ResultActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
-
+/**
+ *
+ */
         tv = (TextView)findViewById(R.id.tvres);
         tv2 = (TextView)findViewById(R.id.tvres2);
         tv3 = (TextView)findViewById(R.id.tvres3);
