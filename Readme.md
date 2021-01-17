@@ -1,4 +1,4 @@
-|NAME |ID |EMAIL |ROLE | |:..... |:.... |:..... |:... |
+#|NAME |ID |EMAIL |ROLE | |:..... |:.... |:..... |:... |
 |Ashenafi tesfaye | 1118 |atesfaye455@gmail.com |Manager | 
 |Assefa demeke | 1122 |assefademekebrihanu1122@gmail.com |Developer |
 |mesuaet Erkie | 1255 |mesi1122@gmail.com |Tseter | 
@@ -28,6 +28,6 @@ QuizBee is an android based application, and enables the user to undertake a ser
 	<img src="/screenshot/pic3.png" width = "200" height= "350" hspace=40>
 </p>
 
-If you have any queries or suggestions you can mail me: vkasojhaa@gmail.com
+If you have any queries or suggestions you can mail me: assede1122@gmail.com
 
 You are welcome to suggest any changes, just send a pull request.
