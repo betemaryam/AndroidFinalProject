@@ -1,3 +1,13 @@
+|NAME |ID |EMAIL |ROLE | |:..... |:.... |:..... |:... |
+|Ashenafi tesfaye | 1118 |atesfaye455@gmail.com |Manager | 
+|Assefa demeke | 1122 |assefademekebrihanu1122@gmail.com |Developer |
+|mesuaet Erkie | 1255 |mesi1122@gmail.com |Tseter | 
+|Kasu Urgecha | 1232 |kasu@gmail.com |Analyst | 
+|Betemaryam Tadese| 1145 |betemariam@gmail.com |Designer |
+|Aenachew Adane | 1367 |zenachew22@gmail.com |Implmenter|
+
+
+
 # Readme
 This app was developed as a learning project for Android. It is developed in Android Studio 2.1<br>
 
