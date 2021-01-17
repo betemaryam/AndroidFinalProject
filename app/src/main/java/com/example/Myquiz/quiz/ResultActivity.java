@@ -1,4 +1,4 @@
-package com.example.vikasojha.quizbee;
+package com.example.Myquiz.quiz;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.QuickContactBadge;
 import android.widget.TextView;
+
+import com.example.Myquiz.quiz.QuestionsActivity;
 
 import org.w3c.dom.Text;
 
@@ -33,7 +35,6 @@ public class ResultActivity extends AppCompatActivity {
         tv.setText(sb);
         tv2.setText(sb2);
         tv3.setText(sb3);
-
         QuestionsActivity.correct=0;
         QuestionsActivity.wrong=0;
 

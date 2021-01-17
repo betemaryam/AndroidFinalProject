@@ -1,4 +1,4 @@
-package com.example.vikasojha.quizbee;
+package com.example.Myquiz.quiz;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.example.Myquiz.quiz.QuestionsActivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
                         String name=nametext.getText().toString();
-                        Intent intent=new Intent(getApplicationContext(),QuestionsActivity.class);
+                        Intent intent=new Intent(getApplicationContext(), QuestionsActivity.class);
                         intent.putExtra("myname",name);
                         startActivity(intent);
                     }

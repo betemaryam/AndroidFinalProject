@@ -1,4 +1,4 @@
-package com.example.vikasojha.quizbee;
+package com.example.Myquiz.quiz;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -88,7 +88,7 @@ public class QuestionsActivity extends AppCompatActivity {
                 }
                 RadioButton uans = (RadioButton) findViewById(radio_g.getCheckedRadioButtonId());
                 String ansText = uans.getText().toString();
-//                Toast.makeText(getApplicationContext(), ansText, Toast.LENGTH_SHORT).show();
+
                 if(ansText.equals(answers[flag])) {
                     correct++;
                     Toast.makeText(getApplicationContext(), "Correct", Toast.LENGTH_SHORT).show();

@@ -7,13 +7,13 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.vikasojha.quizbee.MainActivity"
+    tools:context="com.example.Myquiz.quiz.MainActivity"
     >
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="QuizBee"
+        android:text="@string/quizapp"
         android:layout_marginTop="48dp"
         android:textSize="60dp"
         android:id="@+id/textView"
@@ -23,17 +23,17 @@
         android:textColor="#F44336" />
 
     <Button
+        android:id="@+id/button"
         android:layout_width="200dp"
         android:layout_height="52dp"
-        android:text="Start"
-        android:id="@+id/button"
-        android:textSize="30dp"
         android:layout_above="@+id/button2"
-        android:layout_alignLeft="@+id/editName"
         android:layout_alignStart="@+id/editName"
+        android:layout_alignLeft="@+id/editName"
         android:layout_marginBottom="25dp"
-        android:background="#FF5722"
-        android:textColor="#ffffff" />
+        android:background="#8BC34A"
+        android:text="Start"
+        android:textColor="#ffffff"
+        android:textSize="30dp" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -47,15 +47,15 @@
         android:layout_centerHorizontal="true" />
 
     <Button
+        android:id="@+id/button2"
         android:layout_width="200dp"
         android:layout_height="52dp"
-        android:text="About"
-        android:id="@+id/button2"
-        android:textSize="30dp"
-        android:layout_marginBottom="33dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignLeft="@+id/button"
         android:layout_alignStart="@+id/button"
-        android:background="#01579B"
-        android:textColor="#ffffff" />
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="33dp"
+        android:background="#9B0120"
+        android:text="About"
+        android:textColor="#ffffff"
+        android:textSize="30dp" />
 </RelativeLayout>
