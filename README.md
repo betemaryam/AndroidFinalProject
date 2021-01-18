@@ -4,8 +4,9 @@
 |Assefa demeke    | 1122 |assefademekebrihanu1122@gmail.com |Developer |
 |mesuaet Erkie    | 1255 |mesi1122@gmail.com                |Tseter    | 
 |Kasu Urgecha     | 1232 |kasu@gmail.com                    |Analyst   |
-|Betemaryam Tadese| 1145 |betemariam@gmail.com              |Designer  |
+|Betemaryam Tadese| 1145 |betemaryam0312@gmail.com              |Designer  |
 |Aenachew Adane   | 1367 |zenachew22@gmail.com              |Implmenter|
+
 
 
 
